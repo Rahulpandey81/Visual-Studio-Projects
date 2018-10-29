@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Maze_Game by R.P", "Maze_Game by R.P\Maze_Game by R.P.vbproj", "{C4D7086F-E8C8-440A-8D69-82DC1C07B0C5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Rahul Pandey", "Rahul Pandey\Rahul Pandey.vdproj", "{BC871837-9A8B-4020-9ED5-3D0D40BD6FEB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Maze", "Maze\Maze.vdproj", "{849DF703-86BA-4DBF-A16A-668459B10E8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4D7086F-E8C8-440A-8D69-82DC1C07B0C5}.Debug|x86.ActiveCfg = Debug|x86
+		{C4D7086F-E8C8-440A-8D69-82DC1C07B0C5}.Debug|x86.Build.0 = Debug|x86
+		{C4D7086F-E8C8-440A-8D69-82DC1C07B0C5}.Release|x86.ActiveCfg = Release|x86
+		{C4D7086F-E8C8-440A-8D69-82DC1C07B0C5}.Release|x86.Build.0 = Release|x86
+		{BC871837-9A8B-4020-9ED5-3D0D40BD6FEB}.Debug|x86.ActiveCfg = Debug
+		{BC871837-9A8B-4020-9ED5-3D0D40BD6FEB}.Release|x86.ActiveCfg = Release
+		{849DF703-86BA-4DBF-A16A-668459B10E8B}.Debug|x86.ActiveCfg = Debug
+		{849DF703-86BA-4DBF-A16A-668459B10E8B}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
