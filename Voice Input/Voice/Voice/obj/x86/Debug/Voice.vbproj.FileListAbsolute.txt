@@ -1,0 +1,14 @@
+c:\users\rahul\documents\visual studio 2010\Projects\Voice\Voice\bin\Debug\Voice.exe
+c:\users\rahul\documents\visual studio 2010\Projects\Voice\Voice\bin\Debug\Voice.pdb
+c:\users\rahul\documents\visual studio 2010\Projects\Voice\Voice\bin\Debug\Voice.xml
+c:\users\rahul\documents\visual studio 2010\Projects\Voice\Voice\obj\x86\Debug\Voice.Form1.resources
+c:\users\rahul\documents\visual studio 2010\Projects\Voice\Voice\obj\x86\Debug\Voice.Resources.resources
+c:\users\rahul\documents\visual studio 2010\Projects\Voice\Voice\obj\x86\Debug\Voice.vbproj.GenerateResource.Cache
+c:\users\rahul\documents\visual studio 2010\Projects\Voice\Voice\obj\x86\Debug\Voice.exe
+c:\users\rahul\documents\visual studio 2010\Projects\Voice\Voice\obj\x86\Debug\Voice.xml
+c:\users\rahul\documents\visual studio 2010\Projects\Voice\Voice\obj\x86\Debug\Voice.pdb
+C:\Users\Rahul\documents\visual studio 2010\Projects\Voice\Voice\bin\Debug\Voice.exe.manifest
+C:\Users\Rahul\documents\visual studio 2010\Projects\Voice\Voice\bin\Debug\Voice.application
+C:\Users\Rahul\documents\visual studio 2010\Projects\Voice\Voice\obj\x86\Debug\Voice.exe.manifest
+C:\Users\Rahul\documents\visual studio 2010\Projects\Voice\Voice\obj\x86\Debug\Voice.application
+C:\Users\Rahul\documents\visual studio 2010\Projects\Voice\Voice\obj\x86\Debug\Voice.Rahul.resources
