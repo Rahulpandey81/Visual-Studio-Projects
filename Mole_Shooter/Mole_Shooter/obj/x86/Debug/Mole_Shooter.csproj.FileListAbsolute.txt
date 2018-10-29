@@ -1,0 +1,16 @@
+C:\Users\Rahul pandey\Documents\Visual Studio 2010\Projects\Mole_Shooter\Mole_Shooter\obj\x86\Debug\Mole_Shooter.MoleShooter.resources
+C:\Users\Rahul pandey\Documents\Visual Studio 2010\Projects\Mole_Shooter\Mole_Shooter\obj\x86\Debug\Mole_Shooter.Properties.Resources.resources
+C:\Users\Rahul pandey\Documents\Visual Studio 2010\Projects\Mole_Shooter\Mole_Shooter\obj\x86\Debug\Mole_Shooter.csproj.GenerateResource.Cache
+C:\Users\Rahul pandey\Documents\Visual Studio 2010\Projects\Mole_Shooter\Mole_Shooter\bin\Debug\Mole_Shooter.exe
+C:\Users\Rahul pandey\Documents\Visual Studio 2010\Projects\Mole_Shooter\Mole_Shooter\bin\Debug\Mole_Shooter.pdb
+C:\Users\Rahul pandey\Documents\Visual Studio 2010\Projects\Mole_Shooter\Mole_Shooter\obj\x86\Debug\Mole_Shooter.exe
+C:\Users\Rahul pandey\Documents\Visual Studio 2010\Projects\Mole_Shooter\Mole_Shooter\obj\x86\Debug\Mole_Shooter.pdb
+C:\Users\Rahul pandey\Documents\Visual Studio 2010\Projects\Mole_Shooter\Mole_Shooter\obj\x86\Debug\Mole_Shooter.csprojResolveAssemblyReference.cache
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\Mole_Shooter\Mole_Shooter\obj\x86\Debug\Mole_Shooter.exe
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\Mole_Shooter\Mole_Shooter\obj\x86\Debug\Mole_Shooter.pdb
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\Mole_Shooter\Mole_Shooter\bin\Debug\Mole_Shooter.exe
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\Mole_Shooter\Mole_Shooter\bin\Debug\Mole_Shooter.pdb
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\Mole_Shooter\Mole_Shooter\obj\x86\Debug\Mole_Shooter.csprojResolveAssemblyReference.cache
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\Mole_Shooter\Mole_Shooter\obj\x86\Debug\Mole_Shooter.MoleShooter.resources
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\Mole_Shooter\Mole_Shooter\obj\x86\Debug\Mole_Shooter.Properties.Resources.resources
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\Mole_Shooter\Mole_Shooter\obj\x86\Debug\Mole_Shooter.csproj.GenerateResource.Cache
