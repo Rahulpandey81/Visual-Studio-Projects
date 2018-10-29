@@ -1,0 +1,39 @@
+C:\Users\Rahul pandey\Documents\Visual Studio 2010\Projects\GUI\GUI\obj\x86\Debug\GUI.exe
+C:\Users\Rahul pandey\Documents\Visual Studio 2010\Projects\GUI\GUI\obj\x86\Debug\GUI.xml
+C:\Users\Rahul pandey\Documents\Visual Studio 2010\Projects\GUI\GUI\obj\x86\Debug\GUI.pdb
+C:\Users\Rahul pandey\Documents\Visual Studio 2010\Projects\GUI\GUI\bin\Debug\GUI.exe.manifest
+C:\Users\Rahul pandey\Documents\Visual Studio 2010\Projects\GUI\GUI\bin\Debug\GUI.application
+C:\Users\Rahul pandey\Documents\Visual Studio 2010\Projects\GUI\GUI\bin\Debug\GUI.exe
+C:\Users\Rahul pandey\Documents\Visual Studio 2010\Projects\GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\Rahul pandey\Documents\Visual Studio 2010\Projects\GUI\GUI\bin\Debug\GUI.xml
+C:\Users\Rahul pandey\Documents\Visual Studio 2010\Projects\GUI\GUI\obj\x86\Debug\GUI.Form1.resources
+C:\Users\Rahul pandey\Documents\Visual Studio 2010\Projects\GUI\GUI\obj\x86\Debug\GUI.Resources.resources
+C:\Users\Rahul pandey\Documents\Visual Studio 2010\Projects\GUI\GUI\obj\x86\Debug\Go_Easy.vbproj.GenerateResource.Cache
+C:\Users\Rahul pandey\Documents\Visual Studio 2010\Projects\GUI\GUI\obj\x86\Debug\GUI.exe.manifest
+C:\Users\Rahul pandey\Documents\Visual Studio 2010\Projects\GUI\GUI\obj\x86\Debug\GUI.application
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\GUI\GUI\obj\x86\Debug\GUI.exe
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\GUI\GUI\obj\x86\Debug\GUI.xml
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\GUI\GUI\obj\x86\Debug\GUI.pdb
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\GUI\GUI\obj\x86\Debug\GUI.Form1.resources
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\GUI\GUI\obj\x86\Debug\GUI.Resources.resources
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\GUI\GUI\obj\x86\Debug\Go_Easy.vbproj.GenerateResource.Cache
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\GUI\GUI\bin\Debug\GUI.exe.manifest
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\GUI\GUI\bin\Debug\GUI.application
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\GUI\GUI\bin\Debug\GUI.exe
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\GUI\GUI\bin\Debug\GUI.xml
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\GUI\GUI\obj\x86\Debug\GUI.exe.manifest
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\GUI\GUI\obj\x86\Debug\GUI.application
+D:\Doc\Visual Studio 2010\Projects\GUI\GUI\obj\x86\Debug\GUI.exe
+D:\Doc\Visual Studio 2010\Projects\GUI\GUI\obj\x86\Debug\GUI.xml
+D:\Doc\Visual Studio 2010\Projects\GUI\GUI\obj\x86\Debug\GUI.pdb
+D:\Doc\Visual Studio 2010\Projects\GUI\GUI\bin\Debug\GUI.exe.manifest
+D:\Doc\Visual Studio 2010\Projects\GUI\GUI\bin\Debug\GUI.application
+D:\Doc\Visual Studio 2010\Projects\GUI\GUI\bin\Debug\GUI.exe
+D:\Doc\Visual Studio 2010\Projects\GUI\GUI\bin\Debug\GUI.pdb
+D:\Doc\Visual Studio 2010\Projects\GUI\GUI\bin\Debug\GUI.xml
+D:\Doc\Visual Studio 2010\Projects\GUI\GUI\obj\x86\Debug\GUI.Form1.resources
+D:\Doc\Visual Studio 2010\Projects\GUI\GUI\obj\x86\Debug\GUI.Resources.resources
+D:\Doc\Visual Studio 2010\Projects\GUI\GUI\obj\x86\Debug\Go_Easy.vbproj.GenerateResource.Cache
+D:\Doc\Visual Studio 2010\Projects\GUI\GUI\obj\x86\Debug\GUI.exe.manifest
+D:\Doc\Visual Studio 2010\Projects\GUI\GUI\obj\x86\Debug\GUI.application
