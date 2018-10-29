@@ -1,0 +1,39 @@
+C:\Users\nicsi\Desktop\Launcher\Launcher\bin\Debug\Launcher.exe
+C:\Users\nicsi\Desktop\Launcher\Launcher\bin\Debug\Launcher.pdb
+C:\Users\nicsi\Desktop\Launcher\Launcher\bin\Debug\Launcher.xml
+C:\Users\nicsi\Desktop\Launcher\Launcher\obj\x86\Debug\Launcher.Resources.resources
+C:\Users\nicsi\Desktop\Launcher\Launcher\obj\x86\Debug\Launcher.vbproj.GenerateResource.Cache
+C:\Users\nicsi\Desktop\Launcher\Launcher\obj\x86\Debug\Launcher.exe
+C:\Users\nicsi\Desktop\Launcher\Launcher\obj\x86\Debug\Launcher.xml
+C:\Users\nicsi\Desktop\Launcher\Launcher\obj\x86\Debug\Launcher.pdb
+C:\Users\nicsi\Desktop\Launcher\Launcher\obj\x86\Debug\Launcher.frm.resources
+C:\Users\nicsi\Desktop\Launcher\Launcher\bin\Debug\Launcher.exe.manifest
+C:\Users\nicsi\Desktop\Launcher\Launcher\bin\Debug\Launcher.application
+C:\Users\nicsi\Desktop\Launcher\Launcher\obj\x86\Debug\Launcher.exe.manifest
+C:\Users\nicsi\Desktop\Launcher\Launcher\obj\x86\Debug\Launcher.application
+F:\Visual basic projects\Launcher\Launcher\obj\x86\Debug\Launcher.exe
+F:\Visual basic projects\Launcher\Launcher\obj\x86\Debug\Launcher.xml
+F:\Visual basic projects\Launcher\Launcher\obj\x86\Debug\Launcher.pdb
+F:\Visual basic projects\Launcher\Launcher\bin\Debug\Launcher.exe.manifest
+F:\Visual basic projects\Launcher\Launcher\bin\Debug\Launcher.application
+F:\Visual basic projects\Launcher\Launcher\bin\Debug\Launcher.exe
+F:\Visual basic projects\Launcher\Launcher\bin\Debug\Launcher.pdb
+F:\Visual basic projects\Launcher\Launcher\bin\Debug\Launcher.xml
+F:\Visual basic projects\Launcher\Launcher\obj\x86\Debug\Launcher.frm.resources
+F:\Visual basic projects\Launcher\Launcher\obj\x86\Debug\Launcher.Resources.resources
+F:\Visual basic projects\Launcher\Launcher\obj\x86\Debug\Launcher.vbproj.GenerateResource.Cache
+F:\Visual basic projects\Launcher\Launcher\obj\x86\Debug\Launcher.exe.manifest
+F:\Visual basic projects\Launcher\Launcher\obj\x86\Debug\Launcher.application
+E:\Visual basic projects\Launcher\Launcher\obj\x86\Debug\Launcher.exe
+E:\Visual basic projects\Launcher\Launcher\obj\x86\Debug\Launcher.xml
+E:\Visual basic projects\Launcher\Launcher\obj\x86\Debug\Launcher.pdb
+E:\Visual basic projects\Launcher\Launcher\bin\Debug\Launcher.exe.manifest
+E:\Visual basic projects\Launcher\Launcher\bin\Debug\Launcher.application
+E:\Visual basic projects\Launcher\Launcher\bin\Debug\Launcher.exe
+E:\Visual basic projects\Launcher\Launcher\bin\Debug\Launcher.pdb
+E:\Visual basic projects\Launcher\Launcher\bin\Debug\Launcher.xml
+E:\Visual basic projects\Launcher\Launcher\obj\x86\Debug\Launcher.frm.resources
+E:\Visual basic projects\Launcher\Launcher\obj\x86\Debug\Launcher.Resources.resources
+E:\Visual basic projects\Launcher\Launcher\obj\x86\Debug\Launcher.vbproj.GenerateResource.Cache
+E:\Visual basic projects\Launcher\Launcher\obj\x86\Debug\Launcher.exe.manifest
+E:\Visual basic projects\Launcher\Launcher\obj\x86\Debug\Launcher.application
