@@ -1,0 +1,27 @@
+c:\users\rahul\documents\visual studio 2010\Projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\bin\Debug\Makhanlal_University_Bhopal.exe
+c:\users\rahul\documents\visual studio 2010\Projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\bin\Debug\Makhanlal_University_Bhopal.pdb
+c:\users\rahul\documents\visual studio 2010\Projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\bin\Debug\Makhanlal_University_Bhopal.xml
+c:\users\rahul\documents\visual studio 2010\Projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\obj\x86\Debug\Makhanlal_University_Bhopal.Form1.resources
+c:\users\rahul\documents\visual studio 2010\Projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\obj\x86\Debug\Makhanlal_University_Bhopal.Resources.resources
+c:\users\rahul\documents\visual studio 2010\Projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\obj\x86\Debug\Makhanlal_University_Bhopal.vbproj.GenerateResource.Cache
+c:\users\rahul\documents\visual studio 2010\Projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\obj\x86\Debug\Makhanlal_University_Bhopal.exe
+c:\users\rahul\documents\visual studio 2010\Projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\obj\x86\Debug\Makhanlal_University_Bhopal.xml
+c:\users\rahul\documents\visual studio 2010\Projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\obj\x86\Debug\Makhanlal_University_Bhopal.pdb
+E:\Visual basic projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\obj\x86\Debug\Makhanlal_University_Bhopal.exe
+E:\Visual basic projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\obj\x86\Debug\Makhanlal_University_Bhopal.xml
+E:\Visual basic projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\obj\x86\Debug\Makhanlal_University_Bhopal.pdb
+E:\Visual basic projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\bin\Debug\Makhanlal_University_Bhopal.exe
+E:\Visual basic projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\bin\Debug\Makhanlal_University_Bhopal.pdb
+E:\Visual basic projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\bin\Debug\Makhanlal_University_Bhopal.xml
+E:\Visual basic projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\obj\x86\Debug\Makhanlal_University_Bhopal.Form1.resources
+E:\Visual basic projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\obj\x86\Debug\Makhanlal_University_Bhopal.Resources.resources
+E:\Visual basic projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\obj\x86\Debug\Makhanlal_University_Bhopal.vbproj.GenerateResource.Cache
+C:\Program Files\Git\Source\Visual-Studio-Projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\obj\x86\Debug\Makhanlal_University_Bhopal.exe
+C:\Program Files\Git\Source\Visual-Studio-Projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\obj\x86\Debug\Makhanlal_University_Bhopal.xml
+C:\Program Files\Git\Source\Visual-Studio-Projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\obj\x86\Debug\Makhanlal_University_Bhopal.pdb
+C:\Program Files\Git\Source\Visual-Studio-Projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\bin\Debug\Makhanlal_University_Bhopal.exe
+C:\Program Files\Git\Source\Visual-Studio-Projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\bin\Debug\Makhanlal_University_Bhopal.pdb
+C:\Program Files\Git\Source\Visual-Studio-Projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\bin\Debug\Makhanlal_University_Bhopal.xml
+C:\Program Files\Git\Source\Visual-Studio-Projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\obj\x86\Debug\Makhanlal_University_Bhopal.Form1.resources
+C:\Program Files\Git\Source\Visual-Studio-Projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\obj\x86\Debug\Makhanlal_University_Bhopal.Resources.resources
+C:\Program Files\Git\Source\Visual-Studio-Projects\Makhanlal_University_Bhopal\Makhanlal_University_Bhopal\obj\x86\Debug\Makhanlal_University_Bhopal.vbproj.GenerateResource.Cache
